@@ -38,6 +38,7 @@ print "BASE_DIR", BASE_DIR
 # Application definition
 
 INSTALLED_APPS = [
+    'mm_core.core',
     'mm_core.home',
     #'mm_core.search',
 

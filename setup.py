@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = "mm_core",
-    version = "0.0.10",
+    version = "0.0.11",
     author = "Mike Monteith",
     author_email = "mike@mikemonteith.com",
     description = ("A core platform on top of wagtail, as a package test"),
